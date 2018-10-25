@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/send_widgetMenu"
+        android:title="@string/send_to_widget"
+        android:orderInCategory="1"
+        android:visible="true"/>
+
+</menu>

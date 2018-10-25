@@ -1,0 +1,15 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">DeliciousBaking</string>
+    <string name="servings">Servings:</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="ingredients_format"><xliff:g example="1.2" id="amount">%s</xliff:g> <xliff:g example="Kg" id="unit">%s</xliff:g></string>
+    <string name="steps">Steps</string>
+    <string name="video_player">Exoplayer</string>
+    <string name="exception">must implement</string>
+    <string name="send_to_widget">Send to widget</string>
+    <string name="widget_empty">No recipe selected?</string>
+    <string name="widget_successful">Added to widget!</string>
+    <string name="step_format"><xliff:g example="1" id="amount">%d</xliff:g>. <xliff:g example="step" id="unit">%s</xliff:g></string>
+    <string name="step_visualization">Step Visualization</string>
+
+</resources>
